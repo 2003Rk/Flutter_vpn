@@ -171,11 +171,8 @@ lib/
 You can download the latest version of the app from:
 [APK/app-armeabi-v7a-release.apk](APK/app-armeabi-v7a-release.apk)
 
-## 👨‍💻 Developer
 
-Developed by [Jam Ali Hassan](https://github.com/jamalihassan0307)
 
----
 
 ## Do this to Connect / Disconnect
 
